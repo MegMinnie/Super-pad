@@ -24,6 +24,9 @@ button {
   border: none;
   border: black 1px solid;
   border-radius: 10px;
+  font-size: 20px;
+  color: white;
+  font-weight: 900;
 }
 
 #um {
@@ -128,5 +131,19 @@ h1 {
 }
 
 .rodape {
-  background-color: black;
+  color: #fff;
+  text-align: center;
+}
+
+.geral {
+  display: flex;
+  flex-direction: column;
+}
+.atalhos {
+  color: white;
+  padding: 30px;
+}
+
+p {
+  margin: 15px;
 }
