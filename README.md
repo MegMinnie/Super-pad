@@ -28,4 +28,8 @@
 <p>Acesse a aplicação por meio do link: <a href="
 megminnie.github.io/Super-pad/
 "_blank">clique aqui</a></p>
+
+## *Screenshots*
+
+  ![Tela](assets/pad.png)
 </div>
