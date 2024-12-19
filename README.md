@@ -6,15 +6,15 @@
     <img src="http://img.shields.io/static/v1?label=LICENSE-MIT&message=ES6&color=yellow&style=for-the-badge&logo=LICENSE-MIT"/> 
     <br>
     <p>Este projeto consiste em um teclado musical composto por 9 quadrados, cada um representando uma nota musical. Ademais, os quadrados mudam de cor quando são tocados, e a pessoa pode escolher entre tocar as notas clicando nos botões ou utilizando os atalhos do teclado.</p>
-    <p>Atalhos disponíveis:</p>
-    <ul>
-      <li>Dó: "s"</li>   
-       <li>Ré: "d"</li
-      <li>Mi: "j"</li
-      <li>Fá: "x"</li
-      <li>Sol: "c"</li
-     <li>La: "k"</li
-     <li>Sí: "v"</li
-     <li>Dó#: "n"</li
-     <li>Ré#: "m"</li
-    </ul>
+</div>
+  ### Atalhos disponíveis:
+  
+  - **Dó**: `"s"`
+  - **Ré**: `"d"`
+  - **Mi**: `"j"`
+  - **Fá**: `"x"`
+  - **Sol**: `"c"`
+  - **Lá**: `"k"`
+  - **Si**: `"v"`
+  - **Dó#**: `"n"`
+  - **Ré#**: `"m"`
