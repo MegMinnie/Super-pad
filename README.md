@@ -21,3 +21,11 @@
   - **Ré#**: `"m"`
 
 <p align=center>Desenvolvido por <a target="_blank" rel="external" href="https://github.com/MegMinnie/"><strong>Mirele Oliveira da Silva</strong></a>
+
+<div align="left">
+  
+  ## Como Acessar a Aplicação
+<p>Acesse a aplicação por meio do link: <a href="
+megminnie.github.io/Super-pad/
+"_blank">clique aqui</a></p>
+</div>
