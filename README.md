@@ -7,6 +7,7 @@
     <br>
     <p>Este projeto consiste em um teclado musical composto por 9 quadrados, cada um representando uma nota musical. Ademais, os quadrados mudam de cor quando são tocados, e a pessoa pode escolher entre tocar as notas clicando nos botões ou utilizando os atalhos do teclado.</p>
 </div>
+
   ### Atalhos disponíveis:
   
   - **Dó**: `"s"`
@@ -18,3 +19,5 @@
   - **Si**: `"v"`
   - **Dó#**: `"n"`
   - **Ré#**: `"m"`
+
+<p align=center>Desenvolvido por <a target="_blank" rel="external" href="https://github.com/MegMinnie/"><strong>Mirele Oliveira da Silva</strong></a>
